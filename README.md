@@ -1,4 +1,4 @@
 # zaid-demo
 This is my first Git hub repository
 <br>
-Author-zaid
+Author-zaid(khan)
